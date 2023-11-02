@@ -1,0 +1,19 @@
+[
+    {
+        "id": "abc",
+        "name": "Banana",
+        "points": 200,
+        "description": "A banana grown in Ecuador."
+    },
+    {
+        "id": "xyz",
+        "name": "Orange",
+        "points": 100
+    },
+    {
+        "id": "123",
+        "name": "Apple",
+        "points": 300,
+        "description": "An apple grown in Apple Hill."
+    }
+]
